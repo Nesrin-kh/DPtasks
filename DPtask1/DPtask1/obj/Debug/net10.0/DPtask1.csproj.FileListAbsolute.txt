@@ -1,0 +1,14 @@
+G:\ITI Materials\Design Pattern\DPtask1\DPtask1\bin\Debug\net10.0\DPtask1.exe
+G:\ITI Materials\Design Pattern\DPtask1\DPtask1\bin\Debug\net10.0\DPtask1.deps.json
+G:\ITI Materials\Design Pattern\DPtask1\DPtask1\bin\Debug\net10.0\DPtask1.runtimeconfig.json
+G:\ITI Materials\Design Pattern\DPtask1\DPtask1\bin\Debug\net10.0\DPtask1.dll
+G:\ITI Materials\Design Pattern\DPtask1\DPtask1\bin\Debug\net10.0\DPtask1.pdb
+G:\ITI Materials\Design Pattern\DPtask1\DPtask1\obj\Debug\net10.0\DPtask1.GeneratedMSBuildEditorConfig.editorconfig
+G:\ITI Materials\Design Pattern\DPtask1\DPtask1\obj\Debug\net10.0\DPtask1.AssemblyInfoInputs.cache
+G:\ITI Materials\Design Pattern\DPtask1\DPtask1\obj\Debug\net10.0\DPtask1.AssemblyInfo.cs
+G:\ITI Materials\Design Pattern\DPtask1\DPtask1\obj\Debug\net10.0\DPtask1.csproj.CoreCompileInputs.cache
+G:\ITI Materials\Design Pattern\DPtask1\DPtask1\obj\Debug\net10.0\DPtask1.dll
+G:\ITI Materials\Design Pattern\DPtask1\DPtask1\obj\Debug\net10.0\refint\DPtask1.dll
+G:\ITI Materials\Design Pattern\DPtask1\DPtask1\obj\Debug\net10.0\DPtask1.pdb
+G:\ITI Materials\Design Pattern\DPtask1\DPtask1\obj\Debug\net10.0\DPtask1.genruntimeconfig.cache
+G:\ITI Materials\Design Pattern\DPtask1\DPtask1\obj\Debug\net10.0\ref\DPtask1.dll
